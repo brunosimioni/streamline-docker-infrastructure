@@ -1,2 +1,2 @@
-# streamline-docker-infrastructure
+# streamline-infrastructure
 Creates a docker-compose, interlock and nginx high-availability infrastructure.
